@@ -1,8 +1,8 @@
 import cv2 as cv
 
-img = cv.imread('photos/dajjal.jpg')
+img = cv.imread('photos/niggers.jpg')
 
-cv.imshow('Duajjalz', img)
+cv.imshow('HappyFamily', img)
 
 #Converting to grayscale or another color
 # rgb = cv.cvtColor(img, cv.COLOR_BGR2RGB)
