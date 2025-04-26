@@ -1,7 +1,7 @@
 import cv2 as cv
 import matplotlib.pyplot as plt
 
-img = cv.imread('photos/zilit.png')
+img = cv.imread('masukkin path gambar klean dsini.png')
 cv.imshow('Zilit', img)
 
 #combo ama matplotlib dari BGR ke RGB, dan bisa di edit
